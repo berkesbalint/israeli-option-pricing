@@ -1,12 +1,9 @@
 # =============================================================================
-# Izraeli (játék) opció árazása binomiális közelítéssel
+# Izraeli opció árazása binomiális közelítéssel
 # =============================================================================
 #
 # A függvény izraeli call vagy put opció t = 0-beli árát számítja a Cox-Ross-
-# Rubinstein-féle binomiális modell segítségével (CRR-közelítés). Az árazás
-# Kifer (2000) Dynkin-játék formalizmusán alapul: minden időpontban és
-# állapotban a vevő és az eladó optimális megállási döntéseit visszafelé
-# haladó dinamikus programozással határozzuk meg.
+# Rubinstein-féle binomiális modell segítségével (CRR-közelítés). 
 #
 # Argumentumok:
 #   S0     - kezdő részvényár (S_0)
