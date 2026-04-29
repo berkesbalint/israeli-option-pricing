@@ -1,5 +1,5 @@
 # =============================================================================
-# Izraeli (játék) opció árazása kétlépéses Longstaff-Schwartz Monte Carlo módszerrel
+# Izraeli opció árazása kétlépéses Longstaff-Schwartz Monte Carlo módszerrel
 # =============================================================================
 #
 # A függvény izraeli call vagy put opció t = 0-beli árát becsüli a Wang (2024)
